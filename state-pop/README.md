@@ -1,3 +1,2 @@
-## zf5_project
-
-(place your readme here)
+## Created with Yeoman
+zf5 generator for Foundation 5
